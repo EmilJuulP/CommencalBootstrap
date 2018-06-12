@@ -1,0 +1,11 @@
+header .logoContainer {
+    width: 200px;
+}
+
+header .logoContainer img {
+    height:35px;
+}
+
+nav {
+    background-color: yellow;
+}
