@@ -9,3 +9,7 @@ header .logoContainer img {
 nav {
     background-color: yellow;
 }
+
+.lowerEnd {
+    background-color: grey;
+}
